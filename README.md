@@ -1,2 +1,2 @@
-# Spark-adventure
-My all time favourite Spark use cases
+# Spark use cases
+This repo will contain different real time use cases of Apache Spark
